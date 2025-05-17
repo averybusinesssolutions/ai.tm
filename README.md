@@ -1,6 +1,6 @@
-# AIOperatingSystem
+# AI.TM
 
-AIOperatingSystem is a modular, AI-powered desktop operating environment designed for productivity, idea synthesis, document summarization, and lightweight data analysis — all powered by local large language models. This WPF-based application leverages **Ollama** for AI, **ArangoDB** for graph-aware storage, and a plugin architecture for extensibility.
+AI.TM is a modular, AI-powered desktop operating environment designed for productivity, idea synthesis, document summarization, and lightweight data analysis — all powered by local large language models. This WPF-based application leverages **Ollama** for AI, **ArangoDB** for graph-aware storage, and a plugin architecture for extensibility.
 
 ---
 
